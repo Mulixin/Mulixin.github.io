@@ -3,8 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mulixin.github.io/publication-type/1/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mulixin.github.io/</loc>
-    <lastmod>2020-05-23T21:45:53+03:00</lastmod>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mulixin.github.io/authors/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mulixin.github.io/publication/conference-paper/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mulixin.github.io/author/mulikhin-pavel/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mulixin.github.io/publication_types/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mulixin.github.io/publication/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mulixin.github.io/tags/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mulixin.github.io/tag/the-weapons-of-mankind/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,31 +58,11 @@
   </url>
   
   <url>
-    <loc>https://mulixin.github.io/authors/</loc>
-  </url>
-  
-  <url>
     <loc>https://mulixin.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://mulixin.github.io/author/mulikhin-pavel/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mulixin.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mulixin.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://mulixin.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mulixin.github.io/tags/</loc>
   </url>
   
 </urlset>

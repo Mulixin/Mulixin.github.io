@@ -5,12 +5,20 @@
     <link>https://mulixin.github.io/author/mulikhin-pavel/</link>
       <atom:link href="https://mulixin.github.io/author/mulikhin-pavel/index.xml" rel="self" type="application/rss+xml" />
     <description>Mulikhin Pavel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mulixin.github.io/author/mulikhin-pavel/avatar_hu191497ba56b218c9b33e01f188d0c671_55258_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Mulikhin Pavel</title>
       <link>https://mulixin.github.io/author/mulikhin-pavel/</link>
     </image>
+    
+    <item>
+      <title>Colt Armalite AR15 (Model 601)</title>
+      <link>https://mulixin.github.io/publication/conference-paper/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://mulixin.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
